@@ -1,4 +1,4 @@
 # simple-android-calculator
 Simple android app to calculate cost of living differences
 
-![Image 3](imgs/screenshot1.png | height=250)
+<img src="imgs/screenshot1.png" height="250"/>
