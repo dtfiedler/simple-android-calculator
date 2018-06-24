@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/b86ebbefe5ec0fe7f87f6231369ff62f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/659a19fa4b17869cfdc18b111247ee6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2c6a638b2c76ae8b79b854e07416fce1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/3fd37e7f667c75c2ad525e136bb68b4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/dcced4543edd6e811c23340d8081f8b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ed6270d822c0a53b620114c2268841cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c695467c15fc86faa61cf9dc4e0a84d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/9a16302804b3dc3f8241a2287a0585a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8a3dc107bc8a136367fc0e9bea721a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/e05631ac70afea98f29042e0cc41062c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/616592110dda780344fde9495f2c65e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/3d657bbc1a671101bbe5b1d725bbe4fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/6fdb5afb708794866f80320352a52cbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/140ffbdcf4d73262ac8da2984f8f871d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ce245ad79a22f47c7108a171dfcdaa28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/5841a5028f804b30389f732a5d114425/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/0ee823e7e05c25de1989b578b11e7fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/fddfe64f6ad3997bbcb31d98b0b027bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/f83b396c947ecbb57549ed8c5f4884dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b0498abc26f4396a92f2621a4ca38315/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b39860d0858860e8c544b1655370c22f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/f811dd293f7cf70bbb312a051673401b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e176ec49a061b03c26c09886174ceda9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3842c1d59e54361bfb52123ad083d802/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/e7aa73244e2b191ba5353569184acefa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/22d488af080f04044c4a37ea2df935c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/3cd127907624326535378a6092fc6a99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dec19bc304b71de269c1e355f446415e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aa08637cdffe3c21e482cc2eca7f0bd3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/b86ebbefe5ec0fe7f87f6231369ff62f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/b86ebbefe5ec0fe7f87f6231369ff62f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2c6a638b2c76ae8b79b854e07416fce1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2c6a638b2c76ae8b79b854e07416fce1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/f811dd293f7cf70bbb312a051673401b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/f811dd293f7cf70bbb312a051673401b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.gatech.seclass.sdpsalarycalc.SDPSalaryCalcActivity
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/b86ebbefe5ec0fe7f87f6231369ff62f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/b86ebbefe5ec0fe7f87f6231369ff62f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/659a19fa4b17869cfdc18b111247ee6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/659a19fa4b17869cfdc18b111247ee6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2c6a638b2c76ae8b79b854e07416fce1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2c6a638b2c76ae8b79b854e07416fce1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/3fd37e7f667c75c2ad525e136bb68b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/3fd37e7f667c75c2ad525e136bb68b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/dcced4543edd6e811c23340d8081f8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/dcced4543edd6e811c23340d8081f8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ed6270d822c0a53b620114c2268841cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/ed6270d822c0a53b620114c2268841cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c695467c15fc86faa61cf9dc4e0a84d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c695467c15fc86faa61cf9dc4e0a84d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/9a16302804b3dc3f8241a2287a0585a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/9a16302804b3dc3f8241a2287a0585a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8a3dc107bc8a136367fc0e9bea721a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8a3dc107bc8a136367fc0e9bea721a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/e05631ac70afea98f29042e0cc41062c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/e05631ac70afea98f29042e0cc41062c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/616592110dda780344fde9495f2c65e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/616592110dda780344fde9495f2c65e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/3d657bbc1a671101bbe5b1d725bbe4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/3d657bbc1a671101bbe5b1d725bbe4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/6fdb5afb708794866f80320352a52cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/6fdb5afb708794866f80320352a52cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/140ffbdcf4d73262ac8da2984f8f871d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/140ffbdcf4d73262ac8da2984f8f871d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ce245ad79a22f47c7108a171dfcdaa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ce245ad79a22f47c7108a171dfcdaa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/5841a5028f804b30389f732a5d114425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/5841a5028f804b30389f732a5d114425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/0ee823e7e05c25de1989b578b11e7fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/0ee823e7e05c25de1989b578b11e7fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/fddfe64f6ad3997bbcb31d98b0b027bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/fddfe64f6ad3997bbcb31d98b0b027bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/2fd167838eba4c269c4de9afd86f9de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/f83b396c947ecbb57549ed8c5f4884dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/f83b396c947ecbb57549ed8c5f4884dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b0498abc26f4396a92f2621a4ca38315/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b0498abc26f4396a92f2621a4ca38315/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b39860d0858860e8c544b1655370c22f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b39860d0858860e8c544b1655370c22f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/f811dd293f7cf70bbb312a051673401b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/f811dd293f7cf70bbb312a051673401b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e176ec49a061b03c26c09886174ceda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e176ec49a061b03c26c09886174ceda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3842c1d59e54361bfb52123ad083d802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3842c1d59e54361bfb52123ad083d802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/e7aa73244e2b191ba5353569184acefa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/e7aa73244e2b191ba5353569184acefa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/22d488af080f04044c4a37ea2df935c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/22d488af080f04044c4a37ea2df935c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/3cd127907624326535378a6092fc6a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/3cd127907624326535378a6092fc6a99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dec19bc304b71de269c1e355f446415e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dec19bc304b71de269c1e355f446415e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aa08637cdffe3c21e482cc2eca7f0bd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dylanfiedler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aa08637cdffe3c21e482cc2eca7f0bd3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/src/main/AndroidManifest.xml

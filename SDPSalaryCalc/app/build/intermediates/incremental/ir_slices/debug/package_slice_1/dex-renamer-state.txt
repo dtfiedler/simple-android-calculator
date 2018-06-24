@@ -1,0 +1,4 @@
+#Sat Jun 09 02:26:53 CDT 2018
+base.0=/Users/dylanfiedler/Desktop/GT/cs6300/repo/Assignment4/SDPSalaryCalc/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
